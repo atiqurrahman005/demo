@@ -1,0 +1,65 @@
+html intro:
+	project folder
+	file formation
+	text editor
+	html template
+	run html
+
+	html 
+	version control
+		revise: bug fix, delete, add, modify
+
+=	content
+		h1-h6, p, a = link = internal, external, image = internal, external
+
+		jpg, jpeg, png, gif
+		free, r, 
+		
+
+	element, tag, attribute
+	starting tag, ending tag, content
+	starting tag, self closing tag
+	additional data, tag/element, starting tag
+	name="value"
+
+	boolean att: 
+	name="value"
+	name=""
+	name=
+
+
+	seo: h1-h6, p, image = image name + alt
+
+	speed opt:
+	content
+		text, image, audio, video,
+		internet conn:
+
+	file path
+
+	img: src, alt = text show, seo, acces..
+
+
+	
+
+	img optimizaiton: 
+		actual size: 1200*800, 1200*600, 1000*500,  
+		online opti:
+
+	html code comment
+
+
+	=====
+	html validation
+	css===
+	measurement unit: px %
+
+
+
+
+=============================
+	submittion date: wed
+	hw1: note screenshot
+	hw2: class practice = github
+	hw3: w3school = github
+	hw4: watch github playlist + account + hw submit
